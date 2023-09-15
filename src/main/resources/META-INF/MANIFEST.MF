@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: jackson-datatype-jsr310-2.15.2.jar spring-aop-6.0.11.jar lom
+ bok-1.18.28.jar spring-boot-autoconfigure-3.1.3.jar spring-jcl-6.0.11.j
+ ar spring-boot-starter-logging-3.1.3.jar apiguardian-api-1.1.2.jar jaka
+ rta.annotation-api-2.1.1.jar jakarta.xml.bind-api-4.0.0.jar hamcrest-2.
+ 2.jar opentest4j-1.2.0.jar log4j-to-slf4j-2.20.0.jar junit-jupiter-engi
+ ne-5.9.3.jar jakarta.activation-api-2.1.2.jar asm-9.3.jar spring-boot-s
+ tarter-3.1.3.jar tomcat-embed-core-10.1.12.jar spring-test-6.0.11.jar j
+ sonassert-1.5.1.jar junit-jupiter-params-5.9.3.jar spring-boot-test-3.1
+ .3.jar jackson-datatype-jdk8-2.15.2.jar objenesis-3.3.jar log4j-api-2.2
+ 0.0.jar json-path-2.8.0.jar jackson-databind-2.15.2.jar spring-core-6.0
+ .11.jar slf4j-api-2.0.7.jar accessors-smart-2.4.11.jar spring-context-6
+ .0.11.jar logback-classic-1.4.11.jar spring-webmvc-6.0.11.jar spring-bo
+ ot-test-autoconfigure-3.1.3.jar mockito-core-5.3.1.jar spring-boot-star
+ ter-test-3.1.3.jar byte-buddy-agent-1.14.6.jar spring-beans-6.0.11.jar 
+ junit-platform-commons-1.9.3.jar junit-jupiter-api-5.9.3.jar xmlunit-co
+ re-2.9.1.jar snakeyaml-1.33.jar spring-boot-3.1.3.jar jackson-module-pa
+ rameter-names-2.15.2.jar tomcat-embed-el-10.1.12.jar mockito-junit-jupi
+ ter-5.3.1.jar assertj-core-3.24.2.jar spring-boot-starter-json-3.1.3.ja
+ r jul-to-slf4j-2.0.7.jar tomcat-embed-websocket-10.1.12.jar micrometer-
+ commons-1.11.3.jar jackson-core-2.15.2.jar spring-boot-starter-web-3.1.
+ 3.jar junit-jupiter-5.9.3.jar android-json-0.0.20131108.vaadin1.jar spr
+ ing-boot-configuration-processor-3.1.3.jar spring-expression-6.0.11.jar
+  spring-boot-starter-tomcat-3.1.3.jar junit-platform-engine-1.9.3.jar s
+ pring-web-6.0.11.jar json-smart-2.4.11.jar jackson-annotations-2.15.2.j
+ ar byte-buddy-1.14.6.jar logback-core-1.4.11.jar micrometer-observation
+ -1.11.3.jar
+
